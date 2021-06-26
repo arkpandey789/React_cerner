@@ -1,0 +1,89 @@
+{
+  "elements": [
+    {
+      "ipType": "CheckBox",
+      "label": "ark",
+      "mnemonic": "pandey",
+      "placeholder": "CheckBox",
+      "validations": "CheckBox",
+      "required": "True",
+      "options": [
+        {
+          "display": "ark",
+          "value": "pandey"
+        },
+        {
+          "display": "john",
+          "value": "john"
+        },
+        {
+          "display": "bobby",
+          "value": "lashley"
+        }
+      ],
+      "gridconfig": [
+        {
+          "tiny": 12,
+          "small": 34,
+          "medium": 56,
+          "large": 44
+        }
+      ],
+      "id": 1
+    },
+    {
+      "ipType": "RadioButton",
+      "label": "ark",
+      "mnemonic": "pandey",
+      "placeholder": "placeholder",
+      "validations": "efef",
+      "required": "True",
+      "options": [
+        {
+          "display": "",
+          "value": ""
+        }
+      ],
+      "gridconfig": [
+        {
+          "tiny": "",
+          "small": "",
+          "medium": "",
+          "large": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "ipType": "CheckBox",
+      "label": "ark",
+      "mnemonic": "pandey",
+      "placeholder": "CheckBox",
+      "validations": "pandey",
+      "required": "True",
+      "options": [
+        {
+          "display": "ark",
+          "value": "pandey"
+        },
+        {
+          "display": "wwe",
+          "value": "john"
+        },
+        {
+          "display": "bobby",
+          "value": "lashley"
+        }
+      ],
+      "gridconfig": [
+        {
+          "tiny": 23,
+          "small": 45,
+          "medium": 34,
+          "large": 56
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
